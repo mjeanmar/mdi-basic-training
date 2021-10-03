@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Exercise
 parent: Code Collaboration
 has_children: false

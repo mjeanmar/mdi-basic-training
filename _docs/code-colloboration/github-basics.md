@@ -1,5 +1,4 @@
 ---
-layout: default
 title: GitHub
 parent: Code Collaboration
 has_children: false

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Git
 parent: Code Collaboration
 has_children: false
