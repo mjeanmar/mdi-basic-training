@@ -6,7 +6,7 @@ has_children: false
 nav_order: 1
 ---
 
-## Git
+## {{ page.title }}
 
 When you work on a project, it is essential to have a way
 of tracking changes you make to your codebase, to help you follow
@@ -31,7 +31,7 @@ concepts of Git, take a look through the ones you find most useful:
 
 <https://git-scm.com/>
 
-<https://git-scm.com/video/what-is-version-control>
+<https://git-scm.com/video/what-is-version-control> (a video)
 
 > Understanding Git at a deep level is a large task. 
 > For now, just try to get your feet wet. 

@@ -6,7 +6,7 @@ has_children: false
 nav_order: 1
 ---
 
-## GitHub
+## {{ page.title }}
 
 **GitHub** is a public web server that helps developers 
 store, manage and share their code projects. It is the most 
