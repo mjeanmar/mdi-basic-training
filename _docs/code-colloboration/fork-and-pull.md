@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Fork & Pull
 parent: Code Collaboration
 has_children: false

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: MDI Basic Training
 has_children: false
 nav_order: 1
