@@ -7,7 +7,7 @@ nav_order: 4
 
 ## {{ page.title }}
 
-Excellent! You are ready to engage in a bit of code collaoration.
+Excellent! You are ready to engage in a bit of code collaboration.
 When you are done, you will see the following values update with your changes:
 
 > {{ site.data.status.number_of_people }} people have successfully completed this excercise
