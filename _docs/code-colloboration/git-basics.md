@@ -46,6 +46,6 @@ to do this as its functionality is built into VS Code. However,
 there are various reasons you might find it useful to have Git installed,
 including that it provides the Git Bash command line utility on Windows.
 
-You can install (Git and Git Bash) from here:
+You can install Git (and Git Bash) from here:
 
 <https://git-scm.com/downloads>
