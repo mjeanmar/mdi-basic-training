@@ -1,6 +1,6 @@
 <!--- edit this file with information about your repository, suite, etc. -->
 
-_{{ site.title }}_ provides tutorials and links to resources to help beginners build
+**{{ site.title }}** provides tutorials and links to resources to help beginners build
 essential skills for participating in MDI code development
 
 Folders in this repository contain ordered tasks for you to work through. 

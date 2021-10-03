@@ -36,18 +36,18 @@ the most common editor in use today.
 
 You'll find everything you need to get started with VS Code here:
 
-https://code.visualstudio.com/
+<https://code.visualstudio.com/>
 
 ### Dark vs. Light theme
 
 When you install VS Code, you will have a chance to choose your color
-theme. If you are new to writing code, hard core developers tend to use 
+theme. If you are new to writing code, hardcore developers tend to use 
 dark themes, but it is your choice, of course.
 
 ### Extensions
 
 VS Code is a fully functioning editor "out of the box", but its functionality
-can be extended by various "Extensions". To see the extensions that are
+can be enhanced by various "Extensions". To see the extensions that are
 already installed, click on the Extensions icon in the leftmost panel of VS Code.
 
 Depending on what you will work on in the MDI, you will find certain extensions 
@@ -56,9 +56,9 @@ wouldn't hurt you to find and install them now. Here's a good list to start with
 
 > There are typically many extensions for similar the same languages, be sure you get the exact ones mentioned below
 
-1) **R**, by Yuki Ueda
-2) **YAML**, by Red Hat
-3) **perl-syntax**, by Jack Karamanian
-4) **GitHub Pull Requests and Issues**, by GitHub
+1) **R**, by Yuki Ueda  
+2) **YAML**, by Red Hat  
+3) **perl-syntax**, by Jack Karamanian  
+4) **GitHub Pull Requests and Issues**, by GitHub  
 
 At this point, feel free to play around with VS Code, or just hang on, we'll give you tasks to do soon...

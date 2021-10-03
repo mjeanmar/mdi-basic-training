@@ -27,11 +27,11 @@ solution used by the MDI. Git allows you to:
 There are many resources on the internet to introduce you to the basic
 concepts of Git, take a look through the ones you find most useful:
 
-https://www.google.com/search?q=git+basics
+<https://www.google.com/search?q=git+basics>
 
-https://git-scm.com/
+<https://git-scm.com/>
 
-https://git-scm.com/video/what-is-version-control
+<https://git-scm.com/video/what-is-version-control>
 
 > Understanding Git at a deep level is a large task. 
 > For now, just try to get your feet wet. 
@@ -48,4 +48,4 @@ including that it provides the Git Bash command line utility on Windows.
 
 You can install (Git and Git Bash) from here:
 
-https://git-scm.com/downloads
+<https://git-scm.com/downloads>
