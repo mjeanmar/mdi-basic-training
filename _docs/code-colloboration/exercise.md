@@ -96,6 +96,9 @@ fork into the main repo.
 - find and click the "Contribute" button
 - click the big green button labeled "Open Pull Request".
 
+Note: you can also make the Pull Request from within VS Code; try to find
+where you would do this.
+
 ## STEP #6 - Wait for Your Changes to Be Accepted
 
 Once an MDI maintainer reviews and merges your changes into the 
