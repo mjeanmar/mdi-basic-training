@@ -1,5 +1,5 @@
 ---
-title: EXERCISE #1
+title: "EXERCISE #1"
 parent: R and Shiny
 has_children: false
 nav_order: 2
