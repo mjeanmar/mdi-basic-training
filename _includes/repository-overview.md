@@ -1,7 +1,7 @@
 <!--- edit this file with information about your repository, suite, etc. -->
 
 **{{ site.title }}** provides tutorials and links to resources to help beginners build
-essential skills for participating in MDI code development
+essential skills for participating in MDI code development.
 
 Folders in this repository contain ordered tasks for you to work through. 
 Start at the beginning and follow the instructions on each tab at the left.
@@ -19,5 +19,5 @@ in one of the other repositories in the MiDataInt organization.
 
 To begin, you might want to improve your understanding of what the
 MDI seeks to achieve and how it can benefit you. Please use the links below. 
-Don't worry if don't understand everything yet - just come back here and start 
+Don't worry if you don't understand everything yet - just come back here and start 
 working through this Basic Training.

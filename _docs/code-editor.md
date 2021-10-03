@@ -6,7 +6,7 @@ nav_order: 2
 
 ## {{ page.title }}
 
-A code developer has to edit code, for which you
+A developer has to edit code, for which you
 will need a **code editor**, i.e., a program to help you author code
 in the same way that Microsoft Word helps you author documents.
 
@@ -29,7 +29,7 @@ editor/IDE used by the MDI is **Visual Studio Code (VS Code)** and you will have
 the best experience integrating with others if you use it. It is 
 the most common editor in use today. 
 
-> Students working the MDI project are exected to use VS Code.
+> Students working on the MDI project are expected to use VS Code.
 
 ### Install VS Code
 
@@ -53,7 +53,7 @@ Depending on what you will work on in the MDI, you will find certain extensions
 to be very useful. We'll mention these again later when you need them, but it
 wouldn't hurt you to find and install them now. Here's a good list to start with. 
 
-> There are typically many extensions for similar the same languages, be sure you get the exact ones mentioned below
+> There are typically many extensions for the same languages, be sure you get the exact ones mentioned below.
 
 1) **R**, by Yuki Ueda  
 2) **YAML**, by Red Hat  
