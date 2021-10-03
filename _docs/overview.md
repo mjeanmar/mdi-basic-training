@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MDI Docs Template
+title: MDI Basic Training
 has_children: false
 nav_order: 1
 ---
