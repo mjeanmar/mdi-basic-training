@@ -2,7 +2,7 @@
 title: GitHub
 parent: Code Collaboration
 has_children: false
-nav_order: 1
+nav_order: 2
 ---
 
 ## {{ page.title }}
@@ -14,22 +14,22 @@ projects, where many developers work on the same code.
 
 GitHub allows you to:
 
-- keep a copy of your code repository on a remote server, for safe keeping
-- easily share your code repository with other people
-- contribute to other people's code repositories
+- keep a copy of your code repository on a remote server for safe keeping
+- easily share your code project with other people
+- contribute to other people's code projects
 - and more!
 
 ## Learn the Basics
 
 There are many resources on the internet to introduce you to the basic
-concepts of GitHub, take a look through the ones you find most useful:
+concepts of GitHub. Take a look through the ones you find most useful:
 
 <https://www.google.com/search?q=github+basics>
 
 > ###  Git vs. GitHub
 > 
-> It is common for beginners to think that Git and GitHub
-> are the "same thing". They are not - you do not need GitHub to use Git. 
+> Beginners often think that Git and GitHub are the "same thing". 
+> They are not - you do not need GitHub to use Git. 
 > Git is a version control system. 
 > GitHub is a resource server that uses Git (there are others like
 > GitLab and BitBucket, but the MDI uses GitHub).
@@ -46,7 +46,7 @@ to work on the MDI codebase.
 ###  Create a Personal Access Token
 
 Various GitHub tasks will be easier if you have a Personal Access Token (PAT),
-which you can think of as a long password to gain access to your account.
+which you can think of as a long password to authorize access to your account.
 Learn more, and create your PAT here:
 
 <https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token>
@@ -55,4 +55,4 @@ Learn more, and create your PAT here:
 
 As mentioned, VS Code and Git/GitHub play together very nicely.
 Please open VS Code and find the "Accounts" icon toward the bottom of
-the leftmost toolbar and use it to log in to your GitHub account.
+the leftmost sidebar and use it to log in to your GitHub account.
