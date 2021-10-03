@@ -11,7 +11,7 @@ nav_order: 4
 Excellent! You are ready to engage in a bit of code collaoration!
 When you are done, you will see the following values update with your changes:
 
-{{ site.data.status.number_of_people }} have successfully completed this Excercise
+> {{ site.data.status.number_of_people }} people have successfully completed this Excercise
 as of {{ site.data.status.most_recent_date }}.
 
 ## Prerequisites
