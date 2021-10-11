@@ -88,7 +88,15 @@ as a function of engine displacement (disp).  What can you conclude from your pl
 
 Also, work to make your plot look a bit more professional. Please color the plot points and label the axes with actual words.  There is more you could do, but let's not get crazy for now.
 
-## STEP #5 - Prove Your Success
+## STEP #5 - Write Your Code into a Script
 
-Email your mentor with the answers to Step #3, and a saved image of your plot
-from Step #4. 
+Up to this point, you  were probably working with R mainly in an R console. That is great and very important but the MDI will rely heavily on R scripts. A 'script' is nothing more than a set of the same commands you might execute manually, but now written down into a file to allow a series of commands to execute automatically from a single call to the script. Read more if you need to:
+
+<https://www.google.com/search?q=r+scripts>
+
+So, open up your code editor and write a series of commands that will do all (or at least most) of the steps above. Run the script to make sure it does what you want.
+
+## STEP #6 - Demonstrate Your Success
+
+Email your mentor with the answers to Step #3, a saved image of your plot
+from Step #4, and your script file from Step #5.
