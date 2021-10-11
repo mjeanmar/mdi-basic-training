@@ -47,7 +47,7 @@ Follow the shinyapps.io documentation to learn how to upload and launch your new
 
 <https://shiny.rstudio.com/articles/shinyapps.html>
 
-Hint: you will need to install the R package 'rsconnect'.
+> Hint: you will need to install the R package 'rsconnect'.
 
 ## STEP #4 - Demonstrate Your Success
 
