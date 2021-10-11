@@ -46,7 +46,7 @@ runExample("01_hello")
 
 It's a big package, it may take a few minutes. If you see the Hello Shiny app, you're good to go!
 
-By the way, for this section, you might find it easier to work in R Studio, although everything is also readily accomplished in VS Code. 
+> For this section, you might find it easier to work in R Studio, although everything is also readily accomplished in VS Code. 
 
 ## Create an Account on shinyapps.io
 
