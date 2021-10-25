@@ -58,6 +58,7 @@ wouldn't hurt you to find and install them now. Here's a good list to start with
 1) **R**, by Yuki Ueda  
 2) **YAML**, by Red Hat  
 3) **perl-syntax**, by Jack Karamanian  
-4) **GitHub Pull Requests and Issues**, by GitHub  
+4) **GitHub Pull Requests and Issues**, by GitHub 
+5) **Code Spell Checker**, by Street Side Software 
 
 At this point, feel free to play around with VS Code, or just hang on, we'll give you tasks to do soon...
