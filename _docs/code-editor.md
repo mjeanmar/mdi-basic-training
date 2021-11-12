@@ -1,7 +1,7 @@
 ---
 title: Editing Code
 has_children: false
-nav_order: 2
+nav_order: 1
 ---
 
 ## {{ page.title }}
@@ -60,5 +60,6 @@ wouldn't hurt you to find and install them now. Here's a good list to start with
 3) **perl-syntax**, by Jack Karamanian  
 4) **GitHub Pull Requests and Issues**, by GitHub  
 5) **Code Spell Checker**, by Street Side Software 
+6) **Remote - SSH**, by Microsoft
 
 At this point, feel free to play around with VS Code, or just hang on, we'll give you tasks to do soon...
