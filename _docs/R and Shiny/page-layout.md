@@ -7,18 +7,17 @@ nav_order: 5
 
 ## {{ page.title }}
 
-At this point, your first R Shiny app should be up and functioning, but there is a good chance
-it is still a bit rough in appearance and inefficient in its coding. That's fine, the
+At this point, your first R Shiny app should be up and functioning, but there is 
+a chance it is still rough in appearance and inefficient in its coding. The
 next sections will introduce two important concepts to improve your apps: 
 **page layout** and **modular coding**.
 
 ## The Importance of Layout
 
-Let's make two points about web page layout.
-First, it is very important to usability of your app.
-In fact, layout is so important you can bet (like most things)
-you are not the first person to want to do it well. Accordingly, Shiny
-and the MDI try to use proven solutions when they exist. 
+Let's make two points about web page layout. First, it is very important to 
+the usability of your app. Second, you can bet (like most things) you are 
+not the first person to want to do it well. Accordingly, Shiny and the MDI 
+try to use proven solutions when they exist. 
 
 Enter Bootstrap.
 
@@ -33,7 +32,7 @@ its basic structures.
 
 <https://www.google.com/search?q=what+is+bootstrap+web>
 
-## Bootstrap (and thus, R Shiny) Grid-Based Layout
+## Bootstrap (and thus Shiny) Grid-Based Layout
 
 The most important thing to know about Bootstrap's contributions
 to R Shiny is a specific way to assemble pages on a grid-based
@@ -46,7 +45,7 @@ Before you continue, be sure you understand the following concepts:
 - a page, or a container on a page, is divided into _rows_
 - each row is divided into _columns_
 - each row has exactly 12 equal-width column divisions (never more, never less)
-- an individual container in a row can claim 1 to 12 of the available columns
+- an individual column in a row can claim 1 to 12 of the available divisions
 - the exact width of each column will scale to the size of the user's viewport
 
 Thus, you can specify the row and column(s) where you want your element 
@@ -61,7 +60,7 @@ See the following to learn how:
 
 <https://www.google.com/search?q=R+Shiny+grid+layout>
 
-The most important Shiny functions you need to learn, that are
+The most important Shiny functions you need to learn, which are
 used heavily throughout MDI apps, are:
 
 - fluidRow()
@@ -70,21 +69,21 @@ used heavily throughout MDI apps, are:
 ## The shinydashboard Page Layout
 
 The grid system can be applied to any 
-container on a page. The last layout detail we should introduce is 
+container on a page. The last layout detail we will introduce is 
 how to structure the _overall_ app page.  
 
 You have seen many web sites that have menu bars at the
 top, the side, or both. The MDI web page mixes a bit of both 
 in a common layout known as a 'dashboard'
-using the common R package 'shinydashboard'.
+using the R package 'shinydashboard'.
 
 <https://rstudio.github.io/shinydashboard/>
 
-Take a look through the demos for the basic idea.
+Take a look through the demos in the link above for the basic idea.
 Importantly, you will not need to worry about the page layout,
 the MDI framework does that for you.
 
-What you mostly want to add from shinydashboard is the
+What you mostly want to add from shinydashboard is its
 nice functions to create boxes and other container elements, 
 thus, pay attention to the new functions:
 
