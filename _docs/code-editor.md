@@ -22,7 +22,7 @@ makes an "editor" become an "IDE".
 
 ## Visual Studio Code
 
-There are many editors/IDEs out there and you may already 
+There are many editors/IDEs and you may already 
 have a preference. You don't necessarily need to switch if you 
 use Atom, R Studio, Komodo or something else. However, the "official"
 editor/IDE used by the MDI is **Visual Studio Code (VS Code)** and you will have
@@ -41,7 +41,7 @@ You'll find everything you need to get started with VS Code here:
 
 When you install VS Code, you will have a chance to choose your color
 theme. If you are new to writing code, hardcore developers tend to use 
-dark themes, but it is your choice, of course.
+dark themes, but it is your choice.
 
 ### Extensions
 
@@ -50,7 +50,7 @@ can be enhanced by various "Extensions". To see the extensions that are
 already installed, click on the Extensions icon in the leftmost panel of VS Code.
 
 Depending on what you will work on in the MDI, you will find certain extensions 
-to be very useful. We'll mention these again later when you need them, but it
+to be very useful. We'll mention these again when you need them, but it
 wouldn't hurt you to find and install them now. Here's a good list to start with. 
 
 > There are typically many extensions for the same languages, be sure you get the exact ones mentioned below.

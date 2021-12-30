@@ -63,9 +63,6 @@ of values from the selected mtcars data column, immediately below the selectInpu
 Now you only have to add the range output once, to the module -
 you are no longer repeating yourself!
 
-Feel free to add any other useful tidbits to your module to report 
-on the selected data column.
-
 ## STEP #3 - Create a helpful layout for your app page
 
 Most likely, your app currently has both inputs above the plot.  Let's help

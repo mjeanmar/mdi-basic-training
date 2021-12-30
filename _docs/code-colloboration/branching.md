@@ -21,7 +21,7 @@ within a single repository.  These versions are called "branches".
 Once again, please use the many available internet resources to learn 
 more about Git branching.
 
-<https://www.google.com/search?q=git+branch+basics>
+- <https://www.google.com/search?q=git+branch+basics>
 
 ## Correcting Our Exercise
 
@@ -48,8 +48,8 @@ are things you'd like to see incorporated, you should:
 - Add or edit content as needed
 - Go through the 'add', 'commit', 'push' and 'pull request' steps as in the Exercise
 
-As with most projects, it is also good to create an Issue on GitHub
+It is also good to create an Issue on GitHub
 to let people know what you think needs to be improved, and so work can
 be associated with specific people. 
 
-<https://www.google.com/search?q=github+issues>
+- <https://www.google.com/search?q=github+issues>

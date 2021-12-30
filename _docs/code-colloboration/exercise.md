@@ -10,7 +10,7 @@ nav_order: 4
 Excellent! You are ready to engage in a bit of code collaboration.
 When you are done, you will see the following values update with your changes:
 
-> {{ site.data.status.number_of_people }} people have successfully completed this excercise
+> {{ site.data.status.number_of_people }} people have successfully completed this exercise
 as of {{ site.data.status.most_recent_date }}.
 
 ## Prerequisites
@@ -76,7 +76,7 @@ computer. To get them onto GitHub:
 - Click the "..." icon and find and click "Push", which will _push_ your changes to your fork of the repository on GitHub
 
 To summarize, you just went through three basic actions in Git:
-- "add", i.e., stage, code changes for commiting
+- "add", i.e., stage, code changes for committing
 - "commit" changes, with a short, descriptive message
 - "push" changes from your local computer to GitHub
 
