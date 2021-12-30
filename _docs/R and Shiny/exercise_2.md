@@ -20,7 +20,7 @@ in the previous sections, and that you now have:
 
 ## STEP #1 - Make Exercise #1 Interactive
 
-In Exercise #1 you made a static plot and calculated some statisics on the mtcars data set. Your job in this exercise is straightforward to explain - simply do the same things in R Shiny so that the plot and values show up on the web page.
+In Exercise #1 you made a static plot and calculated some statistics on the mtcars data set. Your job in this exercise is straightforward to explain - simply do the same things in R Shiny so that the plot and values show up on the web page.
 
 But then go one step further and create _inputs_ on your page that allow the user to do the following things:
 

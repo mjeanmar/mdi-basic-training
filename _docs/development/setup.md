@@ -1,5 +1,5 @@
 ---
-title: "Remote_Server"
+title: "Remote Server"
 parent: Working_Notes
 has_children: false
 nav_order: 1
@@ -32,7 +32,7 @@ of the type accessible by SSH are much less versatile as compared
 to VS Code. Fortunately, VS Code is designed to allow you to edit
 and develop code remotely.  Complete descriptions can be found here:
 
-<https://code.visualstudio.com/docs/remote/remote-overview>
+- <https://code.visualstudio.com/docs/remote/remote-overview>
 
 First, install the VS Code extension **Remote - SSH**, by Microsoft,
 if you did not do that earlier.

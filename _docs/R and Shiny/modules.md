@@ -22,7 +22,7 @@ Web pages you will find in the following search will
 orient you to what Shiny modules are and why they are crucial
 to good app development and used extensively by the MDI.
 
-<https://www.google.com/search?q=r+shiny+modules>
+- <https://www.google.com/search?q=r+shiny+modules>
 
 What you should learn from your reading is:
 
@@ -74,6 +74,6 @@ creating a chain of modular steps:
 appStep1 --> appStep2 --> appStep3
 
 where each appStepN is a Shiny module. Well-designed step modules can 
-often be reused, e.g., many app use a module that helps 
+often be reused, e.g., many apps use a module that helps 
 users assign samples into groups, with subsequent steps making use
 of those assignments.

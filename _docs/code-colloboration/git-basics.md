@@ -9,7 +9,7 @@ nav_order: 1
 
 When you work on a project, it is essential to have a way
 of tracking changes you make to your codebase, to help you follow
-what you've done and even go back in time. We'll call this process
+what you've done and even go back in time. We'll call this
 "version control".
 
 **Git** is the most common version control system in use today, and the
@@ -26,11 +26,9 @@ solution used by the MDI. Git allows you to:
 There are many resources on the internet to introduce you to the basic
 concepts of Git. Take a look through the ones you find most useful:
 
-<https://www.google.com/search?q=git+basics>
-
-<https://git-scm.com/>
-
-<https://git-scm.com/video/what-is-version-control> (a video)
+- <https://www.google.com/search?q=git+basics>
+- <https://git-scm.com/>
+- <https://git-scm.com/video/what-is-version-control> (a video)
 
 > Understanding Git at a deep level is a large task. 
 > For now, just get your feet wet. 
@@ -47,4 +45,4 @@ including that it provides the Git Bash command line utility on Windows.
 
 You can install Git (and Git Bash) from here:
 
-<https://git-scm.com/downloads>
+- <https://git-scm.com/downloads>
