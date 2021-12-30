@@ -1,36 +1,34 @@
 ---
-title: "Remote Server"
-parent: Working_Notes
+title: Server Setup
+parent: HPC Servers
 has_children: false
 nav_order: 1
 ---
 
 ## {{ page.title }}
 
-
-## Stage 1 pipelines
-
-Because Stage 1 pipelines entail handling of large files
-and computationally intensive data analysis steps,
-in general they are executed on a remote HPC server.
-As a result, it is usually best to develop pipeline
-code within such a server environment.
-
-Instructions below will help set up an optimal environment
-for developing Stage 1 pipelines on the Michigan Great Lakes
-server cluster. Small modifications would allow you to use
+Instructions below will help you set up an optimal environment
+for developing code, especially Stage 1 Pipelines, on the 
+[Michigan Great Lakes server cluster](https://arc.umich.edu/greatlakes/). 
+Minor modifications would allow you to use
 any other Linux server in a similar fashion.
 
 ### Get a Great Lakes account and login
 
-Pending.
+Please visit the UMich Advanced Research Computing (ARC) web site 
+for information on getting a login and user account for Great Lakes.
 
-### Editing code on the server
+- <https://arc.umich.edu/greatlakes/user-guide/>
 
-The code development tools that are available in a command line terminal 
+You will eventually also need access to a Slurm account for charging
+your work, which we will cover in a later section.
+
+### Editing code on the remote server using VS Code
+
+The code development tools available in a command line terminal 
 of the type accessible by SSH are much less versatile as compared 
-to VS Code. Fortunately, VS Code is designed to allow you to edit
-and develop code remotely.  Complete descriptions can be found here:
+to VS Code. Fortunately, VS Code is designed to let you to edit
+and develop code remotely. Complete descriptions can be found here:
 
 - <https://code.visualstudio.com/docs/remote/remote-overview>
 
@@ -63,5 +61,3 @@ If successful, at the bottom left of the window you should see a green
 status bar that tells you that you are successfully connected to Great Lakes.
 You may now proceed to use VS Code exactly as before, but now you are
 working on Great Lakes, with access to its file tree, command line, etc.
-
-As a last step, you will want to repeat the MDI installation on Great Lakes.
