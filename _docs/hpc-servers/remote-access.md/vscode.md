@@ -40,7 +40,7 @@ Next, add your Great Lakes account to Remote-SSH.
 
 - click the "Remote Explorer" icon on the left sidebar of VS Code
 - click "+" to add a remote ssh target
-- type or paste "ssh YOUR_USER_NAME@greatlakes-ts.umich.edu"
+- type or paste "ssh YOUR_USER_NAME@greatlakes.arc-ts.umich.edu"
 - hit Enter
 
 ### Connect to the server 
