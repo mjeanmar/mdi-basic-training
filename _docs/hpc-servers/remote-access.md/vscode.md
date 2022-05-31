@@ -1,7 +1,7 @@
 ---
 title: VS Code
 parent: Remote Access
-grandparent: HPC Servers
+grand_parent: HPC Servers
 has_children: false
 nav_order: 20
 ---
