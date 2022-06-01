@@ -6,7 +6,7 @@ has_children: false
 nav_order: 10
 ---
 
-## Work remotely using the OnDemand web UI
+## Work remotely using OnDemand
 
 Many academic HPC servers use 
 [Open OnDemand](https://openondemand.org/),
@@ -21,18 +21,23 @@ via OnDemand:
 
 - <https://greatlakes.arc-ts.umich.edu/pun/sys/dashboard/>
 
-Log in as per normal with your Level 1, two-factor, authentication.
+Log in as per normal with your Level 1, two-factor, authentication,
+from within the UMich Network or via the VPN.
 
 ### File browsing and editing
 
 Click **Files >> Home Directory** at the top of the page to open the 
-multi-functional file browser.  Explore. 
+multi-functional file browser.  
+
+Explore. 
 
 Some features to notice are "Open in Terminal", file downloading,
 and in-browser editing.
 
 ### Command line terminal
 
-Click the **Cluster >> _Great Lakes login node** at the top of the page 
+Click **Cluster >> _Great Lakes login node** at the top of the page 
 to open a web tab with a GUI-based command terminal. Yes, you have
-to log in again with two-factor authentication. Proceed to do work.
+to log in again with two-factor authentication. 
+
+Proceed to do work.

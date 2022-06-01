@@ -1,9 +1,0 @@
-Directories:
-  - command: ls
-    examples:
-      - ls -l
-      - ll -h
-    
-
-
-

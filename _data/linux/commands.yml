@@ -1,0 +1,12 @@
+Directories:
+  - command: cd
+    examples:
+      - cd 
+      - cd PATH
+    description: change the working directory
+  - command: ls
+    examples:
+      - ls -l
+      - ll -h
+    description: list the contents of the working directory
+

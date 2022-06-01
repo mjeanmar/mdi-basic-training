@@ -1,0 +1,12 @@
+- name: USER
+  description: the system name of the current user
+- name: HOME
+  description: the full path to the user's home directory 
+- name: SHELL
+  description: the kind of command shell in use, e.g., bash
+- name: HOSTNAME
+  description: the name of the computer, e.g. server, running the shell
+- name: PATH
+  description: a list of directories where the system will look for executable files, i.e. programs
+- name: PWD
+  description: the full path to the current working directory (the output of pwd command)
