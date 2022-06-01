@@ -20,10 +20,12 @@ where a command is executed.
 Here are a few environment variables to know - these are all
 set by the system and ready to use. There will certainly be others set also.
 
-| Variable Name | Description |
-|---------------|-------------|
+{{ site.data.linux.variables | inspect }}
+
+| Variable Name | Description | 
+|---------------|-------------| 
 {{% for variable in site.data.linux.variables  %}}
-| variable.name | variable.description |
+| {{ variable.name }}xx | {{ variable.description }}yy | 
 {{% endfor %}}
 
 ### Using environment variables

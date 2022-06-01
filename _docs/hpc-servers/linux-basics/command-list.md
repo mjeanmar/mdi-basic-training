@@ -10,8 +10,8 @@ nav_order: 30
 
 Here is a cheat sheet of important Linux commands.
 
-| Command | Examples | Description |
-|---------|----------|-------------|
+| Command | Examples | Description | 
+|---------|----------|-------------| 
 {{% for command in site.data.linux.commands  %}}
-| command.name | {{ command.examples | join: "  " }} | command.description |
+| {{ command.name }} | {{ command.examples | join: "  " }} | {{ command.description }} | 
 {{% endfor %}}
