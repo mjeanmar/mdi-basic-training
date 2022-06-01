@@ -10,7 +10,7 @@ nav_order: 30
 New users will not have much or any prior experience
 interacting with computers at the command line, but it is 
 an essential skill in data analysis. Be confident, countless
-people have mastered it without much effort.
+people have mastered it.
 
 Unsurprisingly, the internet has abundant guides to the
 essentials about Linux file systems and commands:

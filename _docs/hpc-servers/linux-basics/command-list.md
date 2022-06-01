@@ -12,7 +12,7 @@ Here is a cheat sheet of important Linux commands.
 
 {% for category in site.data.linux.commands  %}
 ### {{ category.name }}
-| Command | Examples | Description | 
-|---------|----------|-------------| 
-{% for command in category.commands  %}| {{ command.name }} | {{ command.examples | join: "  " }} | {{ command.description }} |{% endfor %}
+| Command | Examples | Description |
+|---------|----------|-------------|
+{% for command in category.commands  %}| {{ command.name }} | {{ command.examples | join: "<br>" }} | {{ command.description }} | {% endfor %}
 {% endfor %}
