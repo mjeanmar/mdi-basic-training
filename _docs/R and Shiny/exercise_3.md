@@ -10,13 +10,13 @@ nav_order: 70
 Let's turn your prior app into something more complete
 by incorporating layout and modules.
 
-## Prerequisites
+### Prerequisites
 
 Please by sure you have completed **Exercise #2** in this section.
 You should have a functioning, interactive app for plotting values
 from the 'mtcars' object as a scatterplot.
 
-## STEP #1 - Build a module for selecting the plot axis data columns
+### STEP #1 - Build a module for selecting the plot axis data columns
 
 In Exercise #2, your code likely made two different calls to an input
 such as 'selectInput', which helped the user select two data columns
@@ -54,7 +54,7 @@ myModuleServer <- function(id, ...) {
 })}
 ```
 
-## STEP #2 - Add additional UI elements to your module
+### STEP #2 - Add additional UI elements to your module
 
 To make it more obvious how modules help build code fast, in addition
 to the selectInput itself, also have your module display the <code>range()</code>
@@ -63,7 +63,7 @@ of values from the selected mtcars data column, immediately below the selectInpu
 Now you only have to add the range output once, to the module -
 you are no longer repeating yourself!
 
-## STEP #3 - Create a helpful layout for your app page
+### STEP #3 - Create a helpful layout for your app page
 
 Most likely, your app currently has both inputs above the plot.  Let's help
 the user by placing the x-axis selectInput below the x-axis, and the y-axis 
@@ -78,6 +78,6 @@ selectInput to the left of the y-axis. Your final page should have this layout:
 >Use the <code>fluidRow()</code> and <code>column()</code>
 >functions to achieve this, making use of the Bootstrap-style 'width' argument.
 
-## STEP #4 - Demonstrate your success
+### STEP #4 - Demonstrate your success
 
 Re-upload your app to shinyapps.io and email your mentor when ready!

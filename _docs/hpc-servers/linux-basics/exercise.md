@@ -19,7 +19,7 @@ here and elsewhere to find the commands you need.
 if you do it from the command line. Otherwise, you can edit the file
 in VS Code.
 
-## Prerequisites
+### Prerequisites
 
 To recap, we expect that you have completed all steps
 in the previous sections, and that you now have:
@@ -27,7 +27,7 @@ in the previous sections, and that you now have:
 - a valid account on an HPC server, like Great Lakes
 - an ability to log in and open a remote terminal window on that server
 
-## STEP #1 - Basic directory and file manipulations
+### STEP #1 - Basic directory and file manipulations
 
 Please do the following:
 
@@ -39,7 +39,7 @@ Please do the following:
 - save the file
 - print the contents of the file to the command terminal window
 
-## STEP #2 - Use scripts and environment variables
+### STEP #2 - Use scripts and environment variables
 
 Working from within your basic training directory:
 
@@ -48,7 +48,7 @@ Working from within your basic training directory:
 - run your new script
 - print the contents of whoami.txt to the command terminal window
 
-## STEP #3 - Send your results
+### STEP #3 - Send your results
 
 Prove to your mentor that you've done these things by copy-pasting the 
 contents of your terminal window, with:

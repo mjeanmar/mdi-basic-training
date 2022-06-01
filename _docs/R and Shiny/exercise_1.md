@@ -23,7 +23,7 @@ the three most fundamental things that R does:
 > which means you have to read help text and use the internet
 > to discover things for yourself. When you get stuck, ask!
 
-## Prerequisites
+### Prerequisites
 
 To recap, we expect that you have completed all steps
 in the previous sections, and that you now have:
@@ -31,13 +31,13 @@ in the previous sections, and that you now have:
 - installed Visual Studio Code and the R Extension (and probably R Studio)
 - installed R and verified it is working as expected
 
-## STEP #1 - Load a data set
+### STEP #1 - Load a data set
 
 R comes with various data sets that are immediately available 
 for use (you don't have to go looking for them). We are going to
 use the 'mtcars' data set. So, nothing to actually do here.
 
-## STEP #2 - Examine a data table
+### STEP #2 - Examine a data table
 
 Myriad data types will come to you as mtcars does,
 as a table (i.e., a 'data.frame') with items in rows and measured values 
@@ -63,7 +63,7 @@ Or, alternatively, do a Google search for 'R str' and similar. You will find
 that they are all commands to help you understand the structure and content
 of a data object.
 
-## STEP #3 - Calculate simple statistics
+### STEP #3 - Calculate simple statistics
 
 Now that you know the table's structure, you will be able to 
 calculate _aggregate_ statistical values on it. Please 
@@ -83,7 +83,7 @@ Play around for a while.
 > Google this if you're not clear (<https://www.google.com/search?q=r+working+with+data.frames>). 
 > You must become familiar with expressions like 'mtcars$mpg' and 'mtcars[1, 2]'.
 
-## STEP #4 - Make a basic plot
+### STEP #4 - Make a basic plot
 
 Finally, use the 'plot' function of R to make a simple plot of mileage (mpg)
 as a function of engine displacement (disp).  What can you conclude from your plot?
@@ -91,7 +91,7 @@ as a function of engine displacement (disp).  What can you conclude from your pl
 Also, work to make your plot look a bit more professional. 
 Please color the plot points and label the axes with actual words.  
 
-## STEP #5 - Write your code into a script
+### STEP #5 - Write your code into a script
 
 Up to this point, you  were probably working mainly in an R console. 
 That is great and very important but the MDI will rely heavily on R scripts.
@@ -104,7 +104,7 @@ to the script. Read more if you need to:
 So, open up your code editor and write a series of commands that will do many or all
 of the steps above. Run the script to make sure it does what you want.
 
-## STEP #6 - Demonstrate Your success
+### STEP #6 - Demonstrate Your success
 
 Email your mentor with the answers to Step #3, a saved image of your plot
 from Step #4, and your script file from Step #5.

@@ -10,7 +10,7 @@ nav_order: 40
 Are you ready to have some fun? Exercise #2 is when your work to this point 
 will really start paying dividends!
 
-## Prerequisites
+### Prerequisites
 
 To recap, we expect that you have completed all steps
 in the previous sections, and that you now have:
@@ -19,7 +19,7 @@ in the previous sections, and that you now have:
 - a validated installation of R and R Shiny
 - an account on shinyapps.io
 
-## STEP #1 - Make Exercise #1 interactive
+### STEP #1 - Make Exercise #1 interactive
 
 In Exercise #1 you made a static plot and calculated some statistics on the mtcars data set. 
 Your job in this exercise is easy to explain - simply do the same things in 
@@ -45,14 +45,14 @@ of what you have already tried and the kinds of errors you are getting.
 > Copying is a great way to get started - make use of the many simple template apps you 
 > will find on the internet.
 
-## STEP #2 - Add something creative to your app
+### STEP #2 - Add something creative to your app
 
 The point of Shiny is to allow you to expose possibilities to your users. 
 Here's your chance to think of something to do with your app and data set that we 
 haven't suggested to you yet. Be creative! This is a very important part of working in the MDI - 
 the ideas for what your tools should do will be your invention!
 
-## STEP #3 - Upload and share your app on shinyapps.io
+### STEP #3 - Upload and share your app on shinyapps.io
 
 Follow the shinyapps.io documentation to learn how to upload and launch your new app on their public server.
 
@@ -60,6 +60,6 @@ Follow the shinyapps.io documentation to learn how to upload and launch your new
 
 > Hint: you will need to install the R package 'rsconnect'.
 
-## STEP #4 - Demonstrate your success
+### STEP #4 - Demonstrate your success
 
 Email your mentor with the link to your app on shinyapps.io.

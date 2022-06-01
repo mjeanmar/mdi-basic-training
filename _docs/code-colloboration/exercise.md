@@ -13,7 +13,7 @@ When you are done, you will see the following values update with your changes:
 > {{ site.data.status.number_of_people }} people have successfully completed this exercise
 as of {{ site.data.status.most_recent_date }}.
 
-## Prerequisites
+### Prerequisites
 
 To recap, we expect that you have completed all steps
 in the previous sections, and that you have:
@@ -22,7 +22,7 @@ in the previous sections, and that you have:
 - created a GitHub account
 - logged into GitHub from within VS Code
 
-## STEP #1 - Fork this repository
+### STEP #1 - Fork this repository
 
 As mentioned, MDI Basic Training is a public GitHub repository.
 Your first step is to fork it into your GitHub account:
@@ -32,7 +32,7 @@ Your first step is to fork it into your GitHub account:
 
 That's it! You now have your own complete _copy_ of this web page.
 
-## STEP #2 - Clone your fork using VS Code
+### STEP #2 - Clone your fork using VS Code
 
 Your fork of the repo is currently only on GitHub. You need
 to have a copy on your local computer so that you can edit it.
@@ -51,7 +51,7 @@ To do this:
 
 You will now have a local _copy_ of your fork, ready to edit in VS Code.
 
-## STEP #3 - Edit a file in your clone
+### STEP #3 - Edit a file in your clone
 
 Take a minute to browse around the folders of the Basic Training
 repository. Can you find the file that has the text for this page?
@@ -63,7 +63,7 @@ Finally, edit the file by incrementing 'number_of_people' up by one (the
 new person is you!) and changing 'most_recent_date' to today's date. 
 These are the changes you will send back up the chain. Save the file.
 
-## STEP #4 - Push the changes to your fork on GitHub
+### STEP #4 - Push the changes to your fork on GitHub
 
 The changes you just made are currently only found on your local
 computer. To get them onto GitHub:
@@ -80,7 +80,7 @@ To summarize, you just went through three basic actions in Git:
 - "commit" changes, with a short, descriptive message
 - "push" changes from your local computer to GitHub
 
-## STEP #5 - Make a pull request on GitHub
+### STEP #5 - Make a pull request on GitHub
 
 The changes you just made are now on GitHub, but only in your fork.
 You are free to use them there however you'd like (e.g., you could
@@ -98,7 +98,7 @@ fork into the main repo.
 
 Note: you can also make the Pull Request from within VS Code.
 
-## STEP #6 - Wait for your changes to be accepted
+### STEP #6 - Wait for your changes to be accepted
 
 Once an MDI maintainer reviews and merges your changes into the 
 definitive repository, you will see evidence of them by reloading this web page:
