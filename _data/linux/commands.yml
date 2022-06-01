@@ -15,6 +15,26 @@
       - mkdir DIRECTORY
       - mkdir -p DIRECTORY
     description: Create a directory
+  - name: pwd
+    examples:
+      - pwd
+    description: Print the path to the current working directory
+
+- name: Files
+  commands:
+  - name: mv
+    examples:
+      - mv SOURCE DESTINATION
+    description: Move a file
+  - name: cp
+    examples:
+      - cp SOURCE DESTINATION
+    description: Copy a file
+  - name: rm
+    examples:
+      - rm FILE
+      - rm -r DIRECTORY
+    description: Remove/delete a file
 
 - name: Permissions
   commands:
@@ -33,19 +53,14 @@
       - chgrp GROUP FILE
       - chgrp -R GROUP DIRECTORY
     description: Change the group of a file or directory
-    
-- name: Files
+
+- name: Display
   commands:
-  - name: mv
+  - name: echo
     examples:
-      - mv SOURCE DESTINATION
-    description: Move a file
-  - name: cp
+      - echo "text to print"
+    description: Echo, i.e., print, something to STDOUT
+  - name: cat
     examples:
-      - cp SOURCE DESTINATION
-    description: Copy a file
-  - name: rm
-    examples:
-      - rm FILE
-      - rm -r DIRECTORY
-    description: Remove/delete a file
+      - cat FILE
+    description: Print the contents of a file or stream to STDOUT
