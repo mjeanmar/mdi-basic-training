@@ -22,8 +22,7 @@ set by the system and ready to use. There will certainly be others set also.
 
 | Variable Name | Description | 
 |---------------|-------------| 
-{% for variable in site.data.linux.variables %}
-| {{ variable.name }} | {{ variable.description }} | 
+{% for variable in site.data.linux.variables %}| {{ variable.name }} | {{ variable.description }} | 
 {% endfor %}
 
 ### Using environment variables

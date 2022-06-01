@@ -4,17 +4,17 @@
     examples:
       - cd 
       - cd PATH
-    description: change the working directory
+    description: Change the working directory
   - name: ls
     examples:
       - ls -l
       - ll -h
-    description: list the contents of the working directory
+    description: List the contents of the working directory
   - name: mkdir
     examples:
       - mkdir DIRECTORY
       - mkdir -p DIRECTORY
-    description: create a directory
+    description: Create a directory
 
 - name: Permissions
   commands:
@@ -22,11 +22,30 @@
     examples:
       - chmod ugo+rwx FILE
       - chmod -R ugo+rwx DIRECTORY
-    description: change the permission on a file or directory
-
+    description: Change the permission on a file or directory
+  - name: chown
+    examples:
+      - chown USER FILE
+      - chown -R USER DIRECTORY
+    description: Change the owner of a file or directory
+  - name: chgrp
+    examples:
+      - chgrp GROUP FILE
+      - chgrp -R GROUP DIRECTORY
+    description: Change the group of a file or directory
+    
 - name: Files
   commands:
   - name: mv
     examples:
       - mv SOURCE DESTINATION
-    description: move a file
+    description: Move a file
+  - name: cp
+    examples:
+      - cp SOURCE DESTINATION
+    description: Copy a file
+  - name: rm
+    examples:
+      - rm FILE
+      - rm -r DIRECTORY
+    description: Remove/delete a file
