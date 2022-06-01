@@ -54,7 +54,7 @@
       - chgrp -R GROUP DIRECTORY
     description: Change the group of a file or directory
 
-- name: Display
+- name: Display Data
   commands:
   - name: echo
     examples:
@@ -64,3 +64,15 @@
     examples:
       - cat FILE
     description: Print the contents of a file or stream to STDOUT
+
+- name: Find and Filter
+  commands:
+  - name: find
+    examples:
+      - find . -name *.txt
+    description: Find files that match a pattern (and much more)
+  - name: grep
+    examples:
+      - grep PATTERN FILE
+    description: Filter for lines of a file that match a pattern
+

@@ -1,0 +1,32 @@
+---
+title: Command List
+parent: Linux Basics
+grand_parent: HPC Servers
+has_children: false
+nav_order: 30
+---
+
+<h2>{{ page.title }}</h2> 
+
+<p>Here is a cheat sheet of important Linux commands.</p>
+
+{% for category in site.data.linux.commands  %}
+
+<h3>{{ category.name }}</h3> 
+
+<table>
+    <tr>
+        <th>Command</th>
+        <th>Examples</th>
+        <th>Description</th>
+    </tr>
+    {% for variable in command in category.commands %}
+    <tr>
+        <td><strong>{{ command.name }}</strong></td>
+        <td>{{ command.examples | join: "<br>" }}</td>
+        <td>{{ command.description }}</td>
+    </tr>
+    {% endfor %}
+</table>
+
+{% endfor %}
