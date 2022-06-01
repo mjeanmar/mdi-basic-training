@@ -13,7 +13,7 @@ executed in a terminal window, or a command "shell".
 
 ### Command shells
 
-A "shell" is a program that controls an an intance of a user's interaction 
+A "shell" is a program that controls an an instance of a user's interaction 
 with the Linux operation system. When you open a terminal window, you are placed
 into an interactive shell and given a command "prompt", shown as a **$** symbol:
 
