@@ -14,7 +14,7 @@
     examples:
       - mkdir DIRECTORY
       - mkdir -p DIRECTORY
-    description: Create a directory
+    description: Create, i.e. make, a directory
   - name: pwd
     examples:
       - pwd
@@ -25,16 +25,16 @@
   - name: mv
     examples:
       - mv SOURCE DESTINATION
-    description: Move a file
+    description: Move a file or directory
   - name: cp
     examples:
       - cp SOURCE DESTINATION
-    description: Copy a file
+    description: Copy a file or directory
   - name: rm
     examples:
       - rm FILE
       - rm -r DIRECTORY
-    description: Remove/delete a file
+    description: Remove/delete a file or directory
 
 - name: Permissions
   commands:
@@ -59,11 +59,19 @@
   - name: echo
     examples:
       - echo "text to print"
-    description: Echo, i.e., print, something to STDOUT
+    description: Echo, i.e., print, the provided text
   - name: cat
     examples:
       - cat FILE
-    description: Print the contents of a file or stream to STDOUT
+    description: Print the contents of a file or stream
+  - name: head
+    examples:
+      - head -n 10 FILE
+    description: Print the first lines of a file or stream
+  - name: tail
+    examples:
+      - tail -n 10 FILE
+    description: Print the last lines of a file or stream
 
 - name: Find and Filter
   commands:
@@ -76,3 +84,41 @@
       - grep PATTERN FILE
     description: Filter for lines of a file that match a pattern
 
+- name: Disks
+  commands:
+  - name: df
+    examples:
+      - df -h .
+    description: Report the amount of free disk space on one or all drives
+  - name: du
+    examples:
+      - du -h -max-depth 2
+    description: Report the amount of disk space used in a directory and its contents
+
+- name: System Processes
+  commands:
+  - name: top
+    examples:
+      - top
+      - top -u USER
+    description: Report the memory and CPU usage of all, or some, system processes
+  - name: htop
+    examples:
+      - htop
+      - htop -u USER
+    description: Like top, with a bit more information and formatting
+
+- name: File Compression
+  commands:
+  - name: gzip
+    examples:
+      - gzip FILE
+      - gzip -c > FILE
+      - gunzip FILE
+      - zcat FILE
+    description: Compress a file, or reverse the process
+  - name: tar
+    examples:
+      - tar -czf ARCHIVE_FILE
+      - tar -xzf ARCHIVE_FILE
+    description: Archive (and compress) one or more files, or reverse the process
