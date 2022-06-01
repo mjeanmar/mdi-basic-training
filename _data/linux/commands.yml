@@ -1,12 +1,32 @@
-Directories:
-  - command: cd
+- name: Directories
+  commands:
+  - name: cd
     examples:
       - cd 
       - cd PATH
     description: change the working directory
-  - command: ls
+  - name: ls
     examples:
       - ls -l
       - ll -h
     description: list the contents of the working directory
+  - name: mkdir
+    examples:
+      - mkdir DIRECTORY
+      - mkdir -p DIRECTORY
+    description: create a directory
 
+- name: Permissions
+  commands:
+  - name: chmod
+    examples:
+      - chmod ugo+rwx FILE
+      - chmod -R ugo+rwx DIRECTORY
+    description: change the permission on a file or directory
+
+- name: Files
+  commands:
+  - name: mv
+    examples:
+      - mv SOURCE DESTINATION
+    description: move a file
