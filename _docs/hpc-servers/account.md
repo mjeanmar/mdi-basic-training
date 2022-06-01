@@ -9,7 +9,7 @@ nav_order: 10
 
 To work on a remote HPC server you must have access to one.
 
-The MDI basic training is written for people at the University of Michigan,
+MDI basic training is written for people at the University of Michigan,
 so instructions here are specific to our 
 [Great Lakes server cluster](https://arc.umich.edu/greatlakes/). 
 
@@ -27,5 +27,5 @@ You will eventually also need access to a Slurm account for charging
 your work, which we will cover in a later section. 
 
 In general, you need to be working as part of a research or other team
-with a prinicipal investigator or project leader who will know
+with a principal investigator or project leader who will know
 how to get you the permissions you need.

@@ -10,12 +10,12 @@ nav_order: 20
 
 The code editing tools available in a command line terminal 
 of the type accessible by SSH, or via Open OnDemand, 
-are less versatile as compared to a dedicated IDE, which
-more readily support things like version control, parallel
+are less versatile than a dedicated IDE, which
+more readily supports things like version control, parallel
 editing of multiple files, syntax checking, and more. 
 
-Fortunately, VS Code is designed to let you to edit
-and develop code remotely. Complete descriptions can be found here:
+Fortunately, VS Code lets you edit and develop code remotely. 
+Complete descriptions can be found here:
 
 - <https://code.visualstudio.com/docs/remote/remote-overview>
 
@@ -55,4 +55,17 @@ To start working in VS Code on Great Lakes
 If successful, at the bottom left of the window you should see a green
 status bar that tells you that you are successfully connected to Great Lakes.
 You may now proceed to use VS Code exactly as before, but now you are
-working on Great Lakes, with access to its file tree, command line, etc.
+working on Great Lakes, not your own computer.
+
+### File browsing and editing
+
+File access doesn't require any further explanation - it works more or less
+the same as if you were accessing local files.
+
+### Command line terminal
+
+Click **View >> Terminal** to open a terminal window on the server.
+Also, notice that you can right-click on a folder in the file tree and
+select "Open in Integrated Terminal" to go straight there. 
+Among other useful features is the ability to split terminals - 
+it is common to have multiple terminals open at the same time under active use.
