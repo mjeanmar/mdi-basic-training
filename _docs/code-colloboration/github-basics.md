@@ -2,7 +2,7 @@
 title: GitHub
 parent: Code Collaboration
 has_children: false
-nav_order: 2
+nav_order: 20
 ---
 
 ## {{ page.title }}
@@ -19,7 +19,7 @@ GitHub allows you to:
 - contribute to other people's code projects
 - and more!
 
-## Learn the Basics
+## Learn the basics
 
 There are many resources on the internet to introduce you to the basic
 concepts of GitHub. Take a look through the ones you find most useful:
@@ -31,10 +31,10 @@ concepts of GitHub. Take a look through the ones you find most useful:
 > Beginners often think that Git and GitHub are the "same thing". 
 > They are not - you do not need GitHub to use Git. 
 > Git is a version control system. 
-> GitHub is a resource server that uses Git (there are others like
-> GitLab and BitBucket, but the MDI uses GitHub).
+> GitHub is a resource server that uses Git (among others like
+> GitLab and BitBucket).
 
-## Get Started with GitHub
+## Get started with GitHub
 
 ### Create an account
 
@@ -46,7 +46,7 @@ to work on the MDI codebase.
 ###  Create a Personal Access Token
 
 Various GitHub tasks will be easier if you have a Personal Access Token (PAT),
-essentially a long password to authorize access to your account.
+essentially a password to authorize access to your account.
 Learn more, and create your PAT here:
 
 - <https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token>

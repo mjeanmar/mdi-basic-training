@@ -2,13 +2,13 @@
 title: Git
 parent: Code Collaboration
 has_children: false
-nav_order: 1
+nav_order: 10
 ---
 
 ## {{ page.title }}
 
 When you work on a project, it is essential to have a way
-of tracking changes you make to your codebase, to help you follow
+of tracking changes you make to your codebase, to follow
 what you've done and even go back in time. We'll call this
 "version control".
 
@@ -21,7 +21,7 @@ solution used by the MDI. Git allows you to:
 - work on a development version without disturbing production code
 - and more!
 
-## Learn the Basics
+### Learn the basics
 
 There are many resources on the internet to introduce you to the basic
 concepts of Git. Take a look through the ones you find most useful:
@@ -32,16 +32,15 @@ concepts of Git. Take a look through the ones you find most useful:
 
 > Understanding Git at a deep level is a large task. 
 > For now, just get your feet wet. 
-> We'll give you concrete tasks to work on soon! 
 
-## Install Git (and Git Bash) Locally
+### Install Git (and Git Bash) locally
 
 Generally speaking, you are encouraged to write code on your 
 local computer (e.g., desktop or laptop) using VS Code. It isn't 
-strictly necessary for you to install Git
+necessary for you to install Git
 to do this as its functionality is built into VS Code. However,
 there are reasons you might find it useful to have Git installed,
-including that it provides the Git Bash command line utility on Windows.
+including that it provides the Git Bash utility on Windows.
 
 You can install Git (and Git Bash) from here:
 
