@@ -1,5 +1,5 @@
 ---
-title: Terminal Commands
+title: Shell Commands
 parent: Linux Basics
 grand_parent: HPC Servers
 has_children: false
