@@ -67,9 +67,10 @@ to a file, only for that file to be read by the next program.
 Instead you send the first program's output directly to the second 
 program's input.
 
-Such data streams are established using the pipe character, i.e., **|**, as follows:
+Such data streams are established using the pipe character as follows:
 
 ```bash
+# character '|' is known as a pipe
 command1 <INPUT_FILE> | command2
 ```
 

@@ -18,11 +18,6 @@ the three most fundamental things that R does:
 - calculate statistics on that data
 - make plots of that data
 
-> We are not going to spoonfeed every command to you verbatim! 
-> We expect you to immediately start _learning how to learn_ to code, 
-> which means you have to read help text and use the internet
-> to discover things for yourself. When you get stuck, ask!
-
 ### Prerequisites
 
 To recap, we expect that you have completed all steps

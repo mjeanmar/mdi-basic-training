@@ -1,5 +1,5 @@
 ---
-title: EXCERCISE
+title: EXERCISE
 parent: Linux Basics
 grand_parent: HPC Servers
 has_children: false
