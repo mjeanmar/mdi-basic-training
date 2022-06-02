@@ -7,12 +7,11 @@ nav_order: 40
 ## {{ page.title }}
 
 You should now have all the basic tools and skills in place
-to begin to work with MDI Stage 1 Pipelines.
-
-A **pipeline** is a set of analysis actions applied to some
+to begin to work with MDI Stage 1 Pipelines, where
+a **pipeline** is a set of analysis actions applied to some
 set of data inputs.
 
-### High level view of MDI pipeline execution
+### High-level view of MDI pipeline execution
 
 We will guide you to installing
 the **mdi** command line utility, or interface (sometimes called
@@ -25,9 +24,13 @@ a is a **job configuration file**, a YAML-format file
 whose purpose is to declare values for the sometimes
 long set of options required to describe a data analysis, 
 including what pipeline you want to run, the target 
-data, analysis parameters, etc.
+data, analysis parameters, what account to use, etc.
 
-The mdi program will read your job configuration file and 
+The mdi utility will read your job configuration file and 
 either run the requested work synchronously, i.e., in your
 terminal window, or asynchronously, by submitting the request
 to the job scheduler on your behalf.
+
+The primary output of the mdi utility depends on the subcommand,
+but in general is a summary report of the jobs submitted,
+their status, log reports, etc.
