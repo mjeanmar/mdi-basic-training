@@ -1,5 +1,5 @@
 ---
-title: EXERCISE #2
+title: "EXERCISE #2"
 parent: MDI Pipelines
 has_children: false
 nav_order: 30
