@@ -6,16 +6,16 @@ nav_order: 40
 
 ## {{ page.title }}
 
-You should now have all the basic tools and skills in place
+You now have the basic tools and skills in place
 to begin to work with MDI Stage 1 Pipelines, where
-a **pipeline** is a set of analysis actions applied to some
+a **pipeline** is a set of analysis actions applied to a
 set of data inputs.
 
-### High-level view of MDI pipeline execution
+### High-level view of pipeline execution
 
-We will guide you to installing
-the **mdi** command line utility, or interface (sometimes called
-a CLI). The mdi utility is a program subject to the same rules you 
+We will guide you to installing a pipeline command line utility, 
+or interface (sometimes called
+a CLI). The utility is a program subject to the same rules you 
 learned for any Linux command. It will have subcommands, take 
 options and inputs, and create outputs and messages.  
 

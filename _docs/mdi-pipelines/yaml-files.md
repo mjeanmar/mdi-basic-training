@@ -12,7 +12,7 @@ the need to store it in a structured, reproducible way,
 known as a file format. There are a great many file formats
 for different kinds of data.
 
-Here, we need to understand **YAML**, which
+Here, we must understand **YAML**, which
 stands for Yet Another Markup Language. YAML files
 have the file extension **.yml**.  They are designed to store
 any kind of data that can be described as:
@@ -32,12 +32,12 @@ the internet:
 
 ### YAML features needed for the MDI
 
-Fortunately, the MDI requires only a small
+Importantly, the MDI requires only a small
 subset of all that YAML files can do, which can be summarized as:
 
 - use a colon, ":", to separate name:value pairs
 - use a hyphen, "-", to enumerate items on a list
-- you can make named lists, lists of name:value dictionaries, etc.
+- you can create named lists, lists of name:value dictionaries, etc.
 - use fixed-width indentation to indicate the level of nesting on an organizational tree
 
 Thus, we get data structures like:
@@ -57,7 +57,7 @@ Rubbles:
 ```
 
 That's all we're going to say! YAML is extremely intuitive, 
-you will naturally understand how to read and write it. 
+you will quickly understand how to read and write it. 
 
 Just remember to choose a fixed-width indentation,
 either 2 or 4 spaces per your preference, and stick with it.
