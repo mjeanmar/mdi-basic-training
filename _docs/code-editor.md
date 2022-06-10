@@ -54,7 +54,7 @@ won't hurt you to find and install them now. Here's a good list to start with.
 - **Remote - SSH**, by Microsoft
 - **GitHub Pull Requests and Issues**, by GitHub
 - **Code Spell Checker**, by Street Side Software 
-- **R**, by Yuki Ueda  
+- **R**, by REditorSupport  
 - **YAML**, by Red Hat  
 - **perl-syntax**, by Jack Karamanian  
 

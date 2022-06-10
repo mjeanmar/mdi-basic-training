@@ -103,6 +103,6 @@ Note: you can also make the Pull Request from within VS Code.
 Once an MDI maintainer reviews and merges your changes into the 
 definitive repository, you will see evidence of them by reloading this web page:
 
-https://midataint.github.io/mdi-basic-training/
+- <https://midataint.github.io/mdi-basic-training/>
 
 > Students should send their mentor an email once they've made the Pull Request.
