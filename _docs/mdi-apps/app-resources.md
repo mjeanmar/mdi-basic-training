@@ -34,7 +34,7 @@ detailed descriptions of how app code is structured.
 ### MDI apps framework
 
 This is the repository for the MDI framework that supports
-Stage 1 app development. Its documentation contains
+Stage 2 apps development. Its documentation contains
 detailed descriptions of the framework code support you
 can use to quickly create highly functional apps.
 

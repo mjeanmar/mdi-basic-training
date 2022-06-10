@@ -132,7 +132,7 @@ _/mdi/suites/definitive/demo-mdi-tools/shiny/apps/demo_. Open that folder
 in your code editor.
 
 To help you get started, the demo app includes the shell of the new app
-step ready for you to activate with your mtcars code. 
+step ready to take your mtcars code. 
 Your first goal is to activate the app step by 
 **uncommenting the basicTraining appStep in _config.yml_**:
 
@@ -165,7 +165,7 @@ Here's what you need to understand: previously, your app had
 a UI and a server function for the _entire app_. When embedding 
 your code into an MDI app step, you still have a ui and server function,
 but now they define an _appStep module_.
-You can think of it as an "app within an app" if it helps. 
+You can think of it as an "app within an app". 
 Otherwise, the organizational concept is the same:
 - declare inputs and outputs in _basicTraining_ui.R_
 - react to inputs and fill outputs in _basicTraining_server.R_

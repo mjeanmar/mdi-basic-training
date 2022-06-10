@@ -23,11 +23,10 @@ populate that initial framework with an
 integrated set of tabs and widgets toward some purpose 
 in interactive data analysis. 
 
-Page filling does not _replace_ the framework, it _adds to it_.
-As a result, when you write an MDI app you will pay very little
-attention to the typical app-level UI and server functions - 
+Page filling with an app does not _replace_ the framework, it _adds to it_.
+As a result, when you write an MDI app you will not care about
+the typical app-level UI and server functions - 
 the framework does that for you. 
-
 You will spend your effort writing
 code for the specific tools you wish to add to your pages,
 mostly by
