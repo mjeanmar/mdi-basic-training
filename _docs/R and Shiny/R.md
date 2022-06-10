@@ -34,7 +34,7 @@ If you see a simple plot, you're ready to proceed.
 As noted above, we encourage all MDI code development to be done in 
 VS Code. If you didn't do it before, please install the VS Code extension:
 
-- **R**, by Yuki Ueda  
+- **R**, by REditorSupport
 
 To take advantage of R syntax checking in VS Code, open an R console 
 and install the 'languageserver' package using this command:
