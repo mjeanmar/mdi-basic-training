@@ -21,7 +21,7 @@ GitHub allows you to:
 
 For example, this is our GitHub organization for the MDI project.
 
-<a href="https://github.com/MiDataInt">{%- include figure.html file="git/github.png" -%}]</a>
+{% include figure.html file="git/github.png" %}
 
 ## Learn the basics
 
