@@ -7,7 +7,7 @@ nav_order: 0
       e.g, "My Pipelines", which will appear on the menu tab item -->
 
 <!-- please do not alter the next line -->
-{% include mdi-project-overview.md %} 
+{% include mdi-project-overview.md %}  
 
 
 **{{ site.title }}** provides information and links to resources to 
