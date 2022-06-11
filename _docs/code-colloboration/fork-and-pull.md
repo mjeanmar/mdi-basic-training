@@ -45,4 +45,6 @@ The concepts you want to understand are that:
     - push their changes to their fork, in their own GitHub account
     - make a "pull request" to the project maintainers to have their code incorporated into the definitive repository
 
+{% include figure.html file="git/fork-and-pull.png" %}
+
 The next Exercise will walk you through these steps.
