@@ -19,6 +19,10 @@ GitHub allows you to:
 - contribute to other people's code projects
 - and more!
 
+For example, this is our GitHub organization for the MDI project.
+
+{% include figure.html file="git/github.png" %}
+
 ## Learn the basics
 
 There are many resources on the internet to introduce you to the basic
@@ -56,3 +60,5 @@ Learn more, and create your PAT here:
 As mentioned, VS Code and Git/GitHub play together very nicely.
 Please open VS Code and find the "Accounts" icon toward the bottom of
 the leftmost sidebar and use it to log in to your GitHub account.
+
+{% include figure.html file="git/vscode-login.png" %}
