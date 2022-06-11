@@ -13,6 +13,8 @@ is not a single computer server, but a series of them
 networked together. Each individual computer is called a **node**.
 Server clusters might have hundreds to even thousands of nodes.
 
+{% include figure.html file="hpc/job-scheduler.png" %}
+
 ### Use (and abuse) of the login node
 
 Typically, you access the entire cluster from
