@@ -21,7 +21,7 @@ GitHub allows you to:
 
 For example, this is our GitHub organization for the MDI project.
 
-[{% include figure.html file="code-editor/vs-code.png" %}](https://github.com/MiDataInt)
+<a href="https://github.com/MiDataInt">{%- include figure.html file="git/github.png" -%}]</a>
 
 ## Learn the basics
 
@@ -61,4 +61,4 @@ As mentioned, VS Code and Git/GitHub play together very nicely.
 Please open VS Code and find the "Accounts" icon toward the bottom of
 the leftmost sidebar and use it to log in to your GitHub account.
 
-{% include figure.html file="code-editor/vscode-login.png" %}
+{% include figure.html file="git/vscode-login.png" %}
