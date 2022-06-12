@@ -21,7 +21,7 @@ GitHub allows you to:
 
 For example, this is our GitHub organization for the MDI project.
 
-{% include figure.html file="git/github.png" border=true width="250px" %}
+{% include figure.html file="git/github.png" border=true width="350px" %}
 
 ## Learn the basics
 
