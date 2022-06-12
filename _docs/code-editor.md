@@ -4,7 +4,7 @@ has_children: false
 nav_order: 10
 ---
 
-## {{ page.title }}
+## {{ page.title }} 
 
 A developer must edit code, for which you
 will need a **code editor**, i.e., a program to help you author code
