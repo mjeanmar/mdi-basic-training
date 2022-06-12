@@ -32,7 +32,7 @@ What you should learn from your reading is:
     - a server function
 - a module's server function can return data from the UI elements defined by the module, or any R data object derived from those UI elements, including reactives
 
-{% include figure.html file="R/shiny-modules.png" %}
+{% include figure.html file="R/shiny-modules.png" width="600px" %}
 
 ### A conceptual example
 
