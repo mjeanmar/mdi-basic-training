@@ -21,6 +21,8 @@ run a web server on any computer, which is:
 - **reactive**, i.e., it updates its contents in response to user actions
 - capable of executing any R command that you might do manually or in a script
 
+{% include figure.html file="R/hello-world.png" border=true %}
+
 Have you ever gotten tired of manually re-trying to make just the right plot? 
 R Shiny allows you to update your plot (and more) quickly and repeatedly by interacting 
 with a web page. Enabling the development of such tools is a major goal of the MDI. 

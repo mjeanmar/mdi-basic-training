@@ -37,7 +37,9 @@ make sure you are understanding that Shiny apps:
 
 - have two distinct components, a 'ui' and a 'server'
 - have 'inputs' and 'outputs' placed into the UI
-- have code in the server that reacts to the inputs to activate changes in the outputs
+- have code in the server that _reacts_ to the inputs to _render_ changes in the outputs
+
+{% include figure.html file="R/shiny-anatomy.png" %}
 
 If you are still struggling after a day of reading and trying, send your mentor examples 
 of what you have already tried and the kinds of errors you are getting.

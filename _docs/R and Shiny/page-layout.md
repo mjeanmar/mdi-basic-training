@@ -43,8 +43,10 @@ Be sure you understand the following concepts:
 
 - a page, or a container on a page, is divided into _rows_
 - each row has exactly 12 equal-width _column_ divisions (never more, never less)
-- an individual column in a row can claim 1 to 12 of the available divisions
+- an individual column in a row can claim a width of 1 to 12 of the available divisions
 - the exact width of each column will scale to the size of the user's viewport
+
+{% include figure.html file="R/bootstrap.png" width="600px" %}
 
 Thus, you can specify the row and column(s) where you want your element 
 to appear and trust that the size of the element will scale properly

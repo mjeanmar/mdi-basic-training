@@ -7,9 +7,8 @@ nav_order: 999
 
 ## {{ page.title }}
 
-Congratulations! You are ready to advance from
-reading the simpler instructions in Basic Training to
-the more complete documentation of the MDI resources.
+Congratulations! You are ready to advance from Basic Training to
+the more complete documentation of the MDI app resources.
 
 The following are the MDI repositories that are most
 relevant for using and developing Stage 2 Apps.

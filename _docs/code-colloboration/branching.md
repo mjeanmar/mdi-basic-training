@@ -16,6 +16,8 @@ way you work in the Fork & Pull model. Specifically, Git (and
 thus GitHub) can actually have multiple running versions of a codebase
 within a single repository. These versions are called "branches".
 
+{% include figure.html file="git/branching.png" %}
+
 ### Learn the basics
 
 Once again, please use the many available internet resources to learn 
