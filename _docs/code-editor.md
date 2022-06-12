@@ -31,8 +31,6 @@ the most common editor in use today and well supported.
 
 {% include figure.html file="code-editor/vs-code.png" border=true %}
 
-> Students working on the MDI project are expected to use VS Code.
-
 ### Install VS Code
 
 You'll find everything you need to get started with VS Code here:
