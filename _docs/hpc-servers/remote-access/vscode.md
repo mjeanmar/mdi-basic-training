@@ -58,7 +58,7 @@ status bar that tells you that you are successfully connected to Great Lakes.
 You may now proceed to use VS Code exactly as before, but now you are
 working on Great Lakes, not your own computer.
 
-{% include figure.html file="hpc/vscode-remote.png" %}
+{% include figure.html file="hpc/vscode-remote.png" border=true %}
 
 ### File browsing and editing
 

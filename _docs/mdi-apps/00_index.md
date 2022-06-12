@@ -6,7 +6,7 @@ nav_order: 60
 
 ## {{ page.title }}
 
-You now have the basic tools and skills in place
+You now have the tools and skills in place
 to begin to work with MDI Stage 1 Apps, where
 an **app** is a single R Shiny web application for interactive
 data analysis.

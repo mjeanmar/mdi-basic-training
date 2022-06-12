@@ -24,7 +24,7 @@ via OnDemand:
 Log in as per normal with your Level 1, two-factor, authentication,
 from within the UMich Network or via the VPN.
 
-{% include figure.html file="hpc/on-demand.png" %}
+{% include figure.html file="hpc/on-demand.png" border=true %}
 
 ### File browsing and editing
 

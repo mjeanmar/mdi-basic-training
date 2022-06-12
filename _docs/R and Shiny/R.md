@@ -29,6 +29,8 @@ plot(1:10)
 
 If you see a simple plot, you're ready to proceed.
 
+{% include figure.html file="R/first-plot.png" %}
+
 ### Install an R-compatible IDE
 
 As noted above, we encourage all MDI code development to be done in 

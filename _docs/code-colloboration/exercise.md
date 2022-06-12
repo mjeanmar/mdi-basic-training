@@ -75,7 +75,7 @@ computer. To get them onto GitHub:
 - Find and click the checkmark icon, which will _commit_ your changes
 - Click the "..." icon and find and click "Push", which will _push_ your changes to your fork of the repository on GitHub
 
-{% include figure.html file="git/vscode-push.png" %}
+{% include figure.html file="git/vscode-push.png" border=true %}
 
 To summarize, you just went through three basic actions in Git:
 - "add", i.e., stage, code changes for committing
@@ -98,7 +98,7 @@ fork into the main repo.
 - Find and click the "Contribute" button
 - Click the big green button labeled "Open Pull Request"
 
-{% include figure.html file="git/pull-request.png" %}
+{% include figure.html file="git/pull-request.png" border=true %}
 
 Note: you can also make the Pull Request from within VS Code.
 

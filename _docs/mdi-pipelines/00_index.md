@@ -6,7 +6,7 @@ nav_order: 40
 
 ## {{ page.title }}
 
-You now have the basic tools and skills in place
+You now have the tools and skills in place
 to begin to work with MDI Stage 1 Pipelines, where
 a **pipeline** is a set of analysis actions applied to a
 set of data inputs.
